@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **CSE student** at IES College of Technology, Bhopal (Graduating 2026)
+- 🎓 **B.Tech CSE Graduate (2026)** from IES College of Technology, Bhopal — actively seeking my first full-time opportunity
 - 💼 Currently building **EduAI** — an AI-powered study-abroad platform
 - 🏆 **ET-AI Hackathon 2026** Semi-Finalist
 - 🌱 Sharpening my skills in **GenAI / LLM integration** (currently exploring tokenizers, prompt engineering & Gemini API)
@@ -76,10 +76,6 @@ An AI-driven platform that helps students find the right university abroad using
 A full-stack college management/utility platform built on the MERN stack.
 - **MongoDB, Express.js, React.js, Node.js**
 - Designed for real campus workflows and student utility features
-
-> 💡 *Replace the links above with your actual repo URLs*
-
----
 
 ### 📊 GitHub Stats
 
