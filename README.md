@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Arpit Kumar Singh 👋</h1>
+<h1 align="center">Hi there, I'm Arpit Kumar Singh </h1>
 
 <h3 align="center">Full-Stack Developer | GenAI Enthusiast | Building things with Django, React & LLMs</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">
+  <a href="https://www.linkedin.com/in/arpit-singh2484/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="arpits2484L@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">
+  <a href="https://arpit-potfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 **B.Tech CSE Graduate (2026)** from IES College of Technology, Bhopal — actively seeking my first full-time opportunity
 - 💼 Currently building **EduAI** — an AI-powered study-abroad platform
@@ -96,7 +96,7 @@ I'm open to **Full-Stack Developer**, **Backend (Django/DRF)**, and **GenAI Engi
 Feel free to reach out for collaboration, opportunities, or just to talk tech!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/" target="_blank">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL@gmail.com">Email</a> •
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/arpit-singh2484/" target="_blank">LinkedIn</a> •
+  <a href="arpits2484@gmail.com">Email</a> •
+  <a href="https://arpit-potfolio.vercel.app/" target="_blank">Portfolio</a>
 </p>
